@@ -7,7 +7,11 @@ Shopping cart through website that consolidates food delivery services such as U
 Members-
 
 Lucas Switzer
+
 Brandon Harris
+
 Ray Glier
+
 Ronak Patel
+
 Brent McKinney
