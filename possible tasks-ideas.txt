@@ -1,0 +1,44 @@
+tasks
+
+choose html or javascript
+learn ^
+research ways to datamine websites
+		dataminer extension?
+		python
+			urlib2 module + BeautifulSoup
+	begin implementation
+		specific locations
+			enter location, use to fetch page, run from there?
+			have user set up location on external site, redirect back?
+				if implement access to accounts, direct any changes to external site
+		specific food types
+		specific providers
+		costs
+	compare implementation across sites
+design ui
+	icons
+	page layout
+	background
+	sidebar
+	filter options
+		types of food
+		
+security
+	user encryption
+		safely access users accounts for each website?
+	email authentification
+	integrate payment into website?
+		checkout > user logs in to external site through integrated window > site loads cart somehow?
+cart
+	add to cart
+		dynamically add in background on actual site?
+		could then actively pull costs
+	save cart
+	edit cart
+		add, remove, edit item
+	verify cart
+	prices
+		items, delivery, tax
+			how to calculate?
+	transfer to checkout
+		adding items to actual websites cart
