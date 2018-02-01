@@ -1,7 +1,7 @@
 tasks
 
-choose html or javascript
-learn ^
+
+
 research ways to datamine websites
 		dataminer extension?
 		python
