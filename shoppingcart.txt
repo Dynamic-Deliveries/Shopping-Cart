@@ -1,0 +1,14 @@
+needs to be an array that holds the objects or use cookies?
+
+
+
+simplecart js plugin
+	http://simplecartjs.org/
+	https://github.com/wojodesign/simplecart-js/blob/master/simpleCart.js
+very basic shopping cart ui tutorial
+	https://designmodo.com/shopping-cart-ui/
+skeleton shopping cart tutorial
+	https://code.tutsplus.com/articles/build-an-ajax-powered-shopping-cart--net-486
+
+
+
