@@ -1,0 +1,11 @@
+Django
+	python based web development framework
+	used for major websites like mozilla and instagram
+Data mining
+	urllib2 to pull urls to mine
+	BeautifulSoup to clean data and move to table
+Security
+	Https to protect data communication 
+	Django has username/password functionality built in
+UI
+	Bootstrap, CSS HTML JS framework for design
