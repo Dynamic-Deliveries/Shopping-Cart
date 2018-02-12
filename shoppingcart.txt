@@ -10,5 +10,6 @@ very basic shopping cart ui tutorial
 skeleton shopping cart tutorial
 	https://code.tutsplus.com/articles/build-an-ajax-powered-shopping-cart--net-486
 
-
+using django
+	https://github.com/lazybird/django-carton
 
