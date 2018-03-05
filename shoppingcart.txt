@@ -13,3 +13,6 @@ skeleton shopping cart tutorial
 using django
 	https://github.com/lazybird/django-carton
 
+basic django
+	https://www.tutorialspoint.com/django/index.htm
+	
