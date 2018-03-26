@@ -1,0 +1,26 @@
+restaurant
+	food type
+	delivery time
+	meal cost $/5
+	min meal cost
+	delivery cost
+	description
+	rating
+	logo
+	address
+	phone#
+food type (ie american, mexican)
+	type
+rating
+	rating #
+	rating by
+	comment
+menu
+	meal types (ie soups & salads)
+	food items
+meal types (ie soups & salads)
+	type
+food items
+	cost
+	description
+	popular
