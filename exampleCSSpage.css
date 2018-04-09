@@ -1,0 +1,16 @@
+
+body {background-color: white;}
+h1   {color: green;}
+p    {color: red;}
+
+#myDiv1 {
+    height: 250px;
+    width: 50%;
+    border-color:black;
+    border-style:solid;
+    padding:10px;
+}
+
+#item{
+	color:#0000ff;
+}
